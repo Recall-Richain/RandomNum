@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e1b8b8d4; 
+}
+#container {
+    text-align: center;
+    margin-top: 50px;
+    display: flex;
+    
+}
+
+#box {
+    border: 1px solid #999; 
+    padding: 20px;
+    width: 300px;
+    margin: 0 auto;
+    background-color: #a66060; 
+}
+
+.input {
+    margin-bottom: 10px;
+        text-align: center;
+    font-style: italic;
+    color: #333; 
+    margin-top: 5px;
+
+}
+
+
+#output {
+    font-size: 24px;
+    margin-top: 10px;
+    color: #007bff;
+
+}
